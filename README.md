@@ -11,7 +11,7 @@ Requires Java or Open JDK 1.6+ to play
 * [LWJGL2]
 * [slick-util]
 * [JOrbis]
-* [progaurd] (optional)
+* [progaurd] *(optional)*
 
 Please amend the post scripts as needed.
 
@@ -27,7 +27,7 @@ All the needful can be found at [clicker.flob.io]
 
 ## License
 
-Copyright (c) 2013 Robert Calvert (robert.calvert.io)
+Copyright (c) 2013 Robert Calvert ([robert.calvert.io])
 
 See the license file for license rights and limitations (GPLv2).
 
@@ -38,4 +38,5 @@ See the license file for license rights and limitations (GPLv2).
 [slick-util]:http://slick.ninjacave.com
 [JOrbis]:http://www.jcraft.com/jorbis
 [progaurd]:http://proguard.sourceforge.net
+[robert.calvert.io]:http://robert.calvert.io
 
